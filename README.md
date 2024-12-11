@@ -1,2 +1,2 @@
 # sturdy-guacamole
-image classifcation for machine learning using streamlit ,and mobilv2
+image classifcation for machine learning using streamlit ,and mobilNetv2
